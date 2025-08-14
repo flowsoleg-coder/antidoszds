@@ -1,0 +1,11 @@
+{
+  "allowed_ips": [
+    "147.45.216.7",
+    "91.178.124.19"
+  ],
+  "config": {
+    "max_bandwidth_mbps": 100,
+    "check_interval_sec": 5,
+    "auto_block_duration_min": 60
+  }
+}
