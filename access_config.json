@@ -1,6 +1,10 @@
 {
-  "AllowedIps": ["147.45.216.7"],
+  "AllowedIps": ["91.178.124.19"],
   "DiscordWebhook": "https://discord.com/api/webhooks/1401343766345814096/066ctbVqhZ8jWOfe54GYRofOMnZ7qc6yPUo335sji1Yk7M6KlylvomyPfNuS-KIfQs7J",
-  "MaxBandwidthMbps": 200,
-  "CheckIntervalSec": 5
+  "DeviceIndex": 0,
+  "CheckIntervalSec": 5,
+  "MbpsThreshold": 50,
+  "PpsThreshold": 500,
+  "BlockDurationMinutes": 30,
+  "MaxBandwidthMbps": 200
 }
